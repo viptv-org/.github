@@ -2,6 +2,10 @@
 
 One familiar viewing experience across your screens.
 
+## Getting started
+
+Start with [viptv-org/workspace](https://github.com/viptv-org/workspace): clone it and run its `setup.sh` to check out every organization repository in one working directory, with the documented check commands for each.
+
 viptv is built around a shared design specification: familiar navigation, predictable controls, consistent resume and next-episode behavior, and playback that prefers direct media delivery before conversion.
 
 Our projects include a native Roku app, Rust backend, React web app, and Android / Android TV work using Jetpack Compose. Desktop work targets Tauri + React; TV web adapters are planned for Samsung Tizen and Vizio.
